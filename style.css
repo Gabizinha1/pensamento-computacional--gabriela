@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+header{
+    background-color: black;
+    height: 150px;
+}
+
+header > img {
+    width: 80px;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px;
+    margin: 5px;
+}
+
+h2{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+p{
+    padding: 5px;
+    margin: 5px;
+}
+
+ol{
+    padding: 10px;
+    margin: 25px;
+}
+
+ul{
+    padding: 10px;
+    margin: 10px;
+}
+
